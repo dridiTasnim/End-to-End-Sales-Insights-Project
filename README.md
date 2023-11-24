@@ -1,6 +1,6 @@
 # End-to-End Sales Insights Project 📈
 
-Welcome to the "End-to-End Sales Insights Project," where we've transformed raw data into actionable insights for informed decision-making.
+Welcome to the "End-to-End Sales Insights Project," where I've transformed raw data into actionable insights for informed decision-making.
 
 ## Project Highlights 🌟
 
