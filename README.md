@@ -5,6 +5,7 @@ Welcome to the "End-to-End Sales Insights Project," where I've transformed raw d
 ## Project Highlights 🌟
 
 - **Data Ingestion and Processing:** I ingested and processed a substantial 1.6 million records into a MySQL database, creating a solid foundation for data discovery and analysis using SQL. 📊
+- ![Alt Text](star.jpg)
 
 - **Seamless Integration with Power BI:** I seamlessly connected Power BI to the MySQL database, ensuring data accuracy and integrity. This integration led to the discovery of pivotal insights driving strategic decision-making. 🤝
 
